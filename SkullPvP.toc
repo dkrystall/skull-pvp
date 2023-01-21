@@ -1,0 +1,7 @@
+## Interface: 100002
+## Version: 1.0.0
+## Title: SkullPvP
+## Notes: PvP Addon to announce Enemy Deaths
+## Author: Retriol
+
+SkullPvP.lua 
